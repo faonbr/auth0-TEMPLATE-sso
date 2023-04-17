@@ -1,9 +1,10 @@
-[[TODO: Summary text that does not duplicate the listing content]]
+The ngrok SSO Integration allows Auth0 to act as the identity provider for your ngrok-frontended application.
 
 ## Prerequisites
 
 1. An Auth0 account and tenant. [Sign up for free](https://auth0.com/signup).
-2. [[TODO: Instructions for creating an account with your service]]
+2. An ngrok enterprise account with admin access to configure edges with SAML SSO.
+
 
 ## Configure the Auth0 SSO Integration
 
@@ -14,9 +15,9 @@
 1. Enable the SSO integration by selecting **Save**.
 1. Select the **Connections** view and [configure the sources of identity to use](https://auth0.com/docs/get-started/applications/update-application-connections).
 
-## Set up [[TODO: Your service name]]
+## Set up ngrok
 
-To configure the integration with [[TODO: Your service name]], use the data shown in the **Tutorial** view to:
+To configure the integration with ngrok, use the data shown in the **Tutorial** view to:
 
 [[TODO: Add steps as an ordered list for configuring your service]]
 
